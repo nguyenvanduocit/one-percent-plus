@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "1dd842cb2cc5c054",
+    "type": "split",
+    "children": [
+      {
+        "id": "49cf6b04e438d4bc",
+        "type": "leaf",
+        "state": {
+          "type": "pdf-annotator",
+          "state": {
+            "file": "Rối loạn nhân cách tránh né.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88a8a968e92c5d59",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ffb604b7ecb088e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaffa781e4867cd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "619edfb9a242c26a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3bd0df9070976b3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5df1be220bfdc321",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edc7c581fe377ecb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Rối loạn nhân cách tránh né.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "49cf6b04e438d4bc",
+  "lastOpenFiles": [
+    "Rối loạn nhân cách tránh né.md",
+    "Data Visualization Charts, Maps, and Interactive Graphics.pdf",
+    "Pasted image 20220504151716.png"
+  ]
+}
